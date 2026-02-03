@@ -1,0 +1,244 @@
+location,continent,income_group
+Afghanistan,Asia,Low income
+Albania,Europe,Upper middle income
+Algeria,Africa,Lower middle income
+American Samoa,Oceania,Unknown
+Andorra,Europe,High income
+Angola,Africa,Lower middle income
+Anguilla,North America,Unknown
+Antigua and Barbuda,North America,High income
+Argentina,South America,Upper middle income
+Armenia,Asia,Upper middle income
+Aruba,North America,Unknown
+Australia,Oceania,High income
+Austria,Europe,High income
+Azerbaijan,Asia,Upper middle income
+Bahamas,North America,High income
+Bahrain,Asia,High income
+Bangladesh,Asia,Lower middle income
+Barbados,North America,High income
+Belarus,Europe,Upper middle income
+Belgium,Europe,High income
+Belize,North America,Upper middle income
+Benin,Africa,Lower middle income
+Bermuda,North America,Unknown
+Bhutan,Asia,Lower middle income
+Bolivia,South America,Lower middle income
+Bonaire Sint Eustatius and Saba,North America,Unknown
+Bosnia and Herzegovina,Europe,Upper middle income
+Botswana,Africa,Upper middle income
+Brazil,South America,Upper middle income
+British Virgin Islands,North America,Unknown
+Brunei,Asia,High income
+Bulgaria,Europe,Upper middle income
+Burkina Faso,Africa,Low income
+Burundi,Africa,Low income
+Cambodia,Asia,Lower middle income
+Cameroon,Africa,Lower middle income
+Canada,North America,High income
+Cape Verde,Africa,Lower middle income
+Cayman Islands,North America,Unknown
+Central African Republic,Africa,Low income
+Chad,Africa,Low income
+Chile,South America,High income
+China,Asia,Upper middle income
+Colombia,South America,Upper middle income
+Comoros,Africa,Lower middle income
+Congo,Africa,Lower middle income
+Cook Islands,Oceania,Unknown
+Costa Rica,North America,Upper middle income
+Cote d'Ivoire,Africa,Lower middle income
+Croatia,Europe,High income
+Cuba,North America,Upper middle income
+Curacao,North America,Unknown
+Cyprus,Europe,High income
+Czechia,Europe,High income
+Democratic Republic of Congo,Africa,Low income
+Denmark,Europe,High income
+Djibouti,Africa,Lower middle income
+Dominica,North America,Upper middle income
+Dominican Republic,North America,Upper middle income
+Ecuador,South America,Upper middle income
+Egypt,Africa,Lower middle income
+El Salvador,North America,Lower middle income
+England,Europe,Unknown
+Equatorial Guinea,Africa,Upper middle income
+Eritrea,Africa,Low income
+Estonia,Europe,High income
+Eswatini,Africa,Lower middle income
+Ethiopia,Africa,Low income
+Faeroe Islands,Europe,Unknown
+Falkland Islands,South America,Unknown
+Fiji,Oceania,Upper middle income
+Finland,Europe,High income
+France,Europe,High income
+French Guiana,South America,Unknown
+French Polynesia,Oceania,Unknown
+Gabon,Africa,Upper middle income
+Gambia,Africa,Low income
+Georgia,Asia,Upper middle income
+Germany,Europe,High income
+Ghana,Africa,Lower middle income
+Gibraltar,Europe,Unknown
+Greece,Europe,High income
+Greenland,North America,Unknown
+Grenada,North America,Upper middle income
+Guadeloupe,North America,Unknown
+Guam,Oceania,Unknown
+Guatemala,North America,Upper middle income
+Guernsey,Europe,Unknown
+Guinea,Africa,Low income
+Guinea-Bissau,Africa,Low income
+Guyana,South America,Upper middle income
+Haiti,North America,Lower middle income
+Honduras,North America,Lower middle income
+Hong Kong,Asia,High income
+Hungary,Europe,High income
+Iceland,Europe,High income
+India,Asia,Lower middle income
+Indonesia,Asia,Lower middle income
+Iran,Asia,Upper middle income
+Iraq,Asia,Upper middle income
+Ireland,Europe,High income
+Isle of Man,Europe,Unknown
+Israel,Asia,High income
+Italy,Europe,High income
+Jamaica,North America,Upper middle income
+Japan,Asia,High income
+Jersey,Europe,Unknown
+Jordan,Asia,Lower middle income
+Kazakhstan,Asia,Upper middle income
+Kenya,Africa,Lower middle income
+Kiribati,Oceania,Lower middle income
+Kosovo,Europe,Upper middle income
+Kuwait,Asia,High income
+Kyrgyzstan,Asia,Lower middle income
+Laos,Asia,Lower middle income
+Latvia,Europe,High income
+Lebanon,Asia,Upper middle income
+Lesotho,Africa,Lower middle income
+Liberia,Africa,Low income
+Libya,Africa,Upper middle income
+Liechtenstein,Europe,High income
+Lithuania,Europe,High income
+Luxembourg,Europe,High income
+Macao,Asia,High income
+Madagascar,Africa,Low income
+Malawi,Africa,Low income
+Malaysia,Asia,Upper middle income
+Maldives,Asia,Upper middle income
+Mali,Africa,Low income
+Malta,Europe,High income
+Marshall Islands,Oceania,Upper middle income
+Martinique,North America,Unknown
+Mauritania,Africa,Lower middle income
+Mauritius,Africa,Upper middle income
+Mayotte,Africa,Unknown
+Mexico,North America,Upper middle income
+Micronesia (country),Oceania,Lower middle income
+Moldova,Europe,Lower middle income
+Monaco,Europe,High income
+Mongolia,Asia,Lower middle income
+Montenegro,Europe,Upper middle income
+Montserrat,North America,Unknown
+Morocco,Africa,Lower middle income
+Mozambique,Africa,Low income
+Myanmar,Asia,Lower middle income
+Namibia,Africa,Upper middle income
+Nauru,Oceania,High income
+Nepal,Asia,Lower middle income
+Netherlands,Europe,High income
+New Caledonia,Oceania,Unknown
+New Zealand,Oceania,High income
+Nicaragua,North America,Lower middle income
+Niger,Africa,Low income
+Nigeria,Africa,Lower middle income
+Niue,Oceania,Unknown
+North Korea,Asia,Low income
+North Macedonia,Europe,Upper middle income
+Northern Cyprus,Asia,Unknown
+Northern Ireland,Europe,Unknown
+Northern Mariana Islands,Oceania,Unknown
+Norway,Europe,High income
+Oman,Asia,High income
+Pakistan,Asia,Lower middle income
+Palau,Oceania,High income
+Palestine,Asia,Lower middle income
+Panama,North America,High income
+Papua New Guinea,Oceania,Lower middle income
+Paraguay,South America,Upper middle income
+Peru,South America,Upper middle income
+Philippines,Asia,Lower middle income
+Pitcairn,Oceania,Unknown
+Poland,Europe,High income
+Portugal,Europe,High income
+Puerto Rico,North America,Unknown
+Qatar,Asia,High income
+Reunion,Africa,Unknown
+Romania,Europe,Upper middle income
+Russia,Europe,Upper middle income
+Rwanda,Africa,Low income
+Saint Barthelemy,North America,Unknown
+Saint Helena,Africa,Unknown
+Saint Kitts and Nevis,North America,High income
+Saint Lucia,North America,Upper middle income
+Saint Martin (French part),North America,Unknown
+Saint Pierre and Miquelon,North America,Unknown
+Saint Vincent and the Grenadines,North America,Upper middle income
+Samoa,Oceania,Lower middle income
+San Marino,Europe,High income
+Sao Tome and Principe,Africa,Lower middle income
+Saudi Arabia,Asia,High income
+Scotland,Europe,Unknown
+Senegal,Africa,Lower middle income
+Serbia,Europe,Upper middle income
+Seychelles,Africa,High income
+Sierra Leone,Africa,Low income
+Singapore,Asia,High income
+Sint Maarten (Dutch part),North America,Unknown
+Slovakia,Europe,High income
+Slovenia,Europe,High income
+Solomon Islands,Oceania,Lower middle income
+Somalia,Africa,Low income
+South Africa,Africa,Upper middle income
+South Korea,Asia,High income
+South Sudan,Africa,Low income
+Spain,Europe,High income
+Sri Lanka,Asia,Lower middle income
+Sudan,Africa,Low income
+Suriname,South America,Upper middle income
+Sweden,Europe,High income
+Switzerland,Europe,High income
+Syria,Asia,Low income
+Taiwan,Asia,High income
+Tajikistan,Asia,Lower middle income
+Tanzania,Africa,Lower middle income
+Thailand,Asia,Upper middle income
+Timor,Asia,Lower middle income
+Togo,Africa,Low income
+Tokelau,Oceania,Unknown
+Tonga,Oceania,Upper middle income
+Trinidad and Tobago,North America,High income
+Tunisia,Africa,Lower middle income
+Turkey,Asia,Upper middle income
+Turkmenistan,Asia,Upper middle income
+Turks and Caicos Islands,North America,Unknown
+Tuvalu,Oceania,Upper middle income
+Uganda,Africa,Low income
+Ukraine,Europe,Lower middle income
+United Arab Emirates,Asia,High income
+United Kingdom,Europe,High income
+United States,North America,High income
+United States Virgin Islands,North America,Unknown
+Uruguay,South America,High income
+Uzbekistan,Asia,Lower middle income
+Vanuatu,Oceania,Lower middle income
+Vatican,Europe,High income
+Venezuela,South America,Upper middle income
+Vietnam,Asia,Lower middle income
+Wales,Europe,Unknown
+Wallis and Futuna,Oceania,Unknown
+Western Sahara,Africa,Unknown
+Yemen,Asia,Low income
+Zambia,Africa,Lower middle income
+Zimbabwe,Africa,Lower middle income
